@@ -1,2 +1,6 @@
 .venv
 .idea
+*.mid
+*.wav
+/fluidsynth-v2.6.0-win10-x64-cpp11
+/GeneralUser-GS
