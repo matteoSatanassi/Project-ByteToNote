@@ -35,7 +35,7 @@ The goal is to generate musical sequences from prompts containing basic musical 
 
 ## Documentation
 
-For a more detailed explanation of the project's methodology, data preparation, model training, and experimental results, see the [technical report](docs/ByteToNote_Report.pdf).
+For a more detailed explanation of the project's methodology, data preparation, model training, and experimental results, see the [technical report](ByteToNote_Report.pdf).
 
 ## Exploring the Project
 
